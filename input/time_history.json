@@ -1,0 +1,1132 @@
+{
+    "NLTHCases": [
+        {
+            "id": 1,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 51.02,
+            "filename": "acc_1.txt"
+        },
+        {
+            "id": 2,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 53.71,
+            "filename": "acc_2.txt"
+        },
+        {
+            "id": 3,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 54.36,
+            "filename": "acc_3.txt"
+        },
+        {
+            "id": 4,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.995,
+            "filename": "acc_4.txt"
+        },
+        {
+            "id": 5,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.475,
+            "filename": "acc_5.txt"
+        },
+        {
+            "id": 6,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 44.01,
+            "filename": "acc_6.txt"
+        },
+        {
+            "id": 7,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 79.98,
+            "filename": "acc_7.txt"
+        },
+        {
+            "id": 8,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 79.44,
+            "filename": "acc_8.txt"
+        },
+        {
+            "id": 9,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 60.19,
+            "filename": "acc_9.txt"
+        },
+        {
+            "id": 10,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 36.39,
+            "filename": "acc_10.txt"
+        },
+        {
+            "id": 11,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0066,
+            "duration": 13.5102,
+            "filename": "acc_11.txt"
+        },
+        {
+            "id": 12,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 21.985,
+            "filename": "acc_12.txt"
+        },
+        {
+            "id": 13,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 34.980000000000004,
+            "filename": "acc_13.txt"
+        },
+        {
+            "id": 14,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 20.98,
+            "filename": "acc_14.txt"
+        },
+        {
+            "id": 15,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 27.09,
+            "filename": "acc_15.txt"
+        },
+        {
+            "id": 16,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 37.64,
+            "filename": "acc_16.txt"
+        },
+        {
+            "id": 17,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 36.865,
+            "filename": "acc_17.txt"
+        },
+        {
+            "id": 18,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 20.975,
+            "filename": "acc_18.txt"
+        },
+        {
+            "id": 19,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 21.68,
+            "filename": "acc_19.txt"
+        },
+        {
+            "id": 20,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 29.990000000000002,
+            "filename": "acc_20.txt"
+        },
+        {
+            "id": 21,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.995,
+            "filename": "acc_21.txt"
+        },
+        {
+            "id": 22,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.995,
+            "filename": "acc_22.txt"
+        },
+        {
+            "id": 23,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 25.990000000000002,
+            "filename": "acc_23.txt"
+        },
+        {
+            "id": 24,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 26.990000000000002,
+            "filename": "acc_24.txt"
+        },
+        {
+            "id": 25,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 22.581599999999998,
+            "filename": "acc_25.txt"
+        },
+        {
+            "id": 26,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0029,
+            "duration": 36.8619,
+            "filename": "acc_26.txt"
+        },
+        {
+            "id": 27,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 35.2104,
+            "filename": "acc_27.txt"
+        },
+        {
+            "id": 28,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 39.3384,
+            "filename": "acc_28.txt"
+        },
+        {
+            "id": 29,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0029,
+            "duration": 37.688399999999994,
+            "filename": "acc_29.txt"
+        },
+        {
+            "id": 30,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0029,
+            "duration": 46.4058,
+            "filename": "acc_30.txt"
+        },
+        {
+            "id": 31,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 40.93,
+            "filename": "acc_31.txt"
+        },
+        {
+            "id": 32,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 41.69,
+            "filename": "acc_32.txt"
+        },
+        {
+            "id": 33,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 64.98,
+            "filename": "acc_33.txt"
+        },
+        {
+            "id": 34,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 58.15,
+            "filename": "acc_34.txt"
+        },
+        {
+            "id": 35,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 21.755,
+            "filename": "acc_35.txt"
+        },
+        {
+            "id": 36,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 59.995000000000005,
+            "filename": "acc_36.txt"
+        },
+        {
+            "id": 37,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 29.990000000000002,
+            "filename": "acc_37.txt"
+        },
+        {
+            "id": 38,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 29.990000000000002,
+            "filename": "acc_38.txt"
+        },
+        {
+            "id": 39,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.00244,
+            "duration": 30.68056,
+            "filename": "acc_39.txt"
+        },
+        {
+            "id": 40,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 27.18,
+            "filename": "acc_40.txt"
+        },
+        {
+            "id": 41,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 11.387999999999998,
+            "filename": "acc_41.txt"
+        },
+        {
+            "id": 42,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0025,
+            "duration": 10.28,
+            "filename": "acc_42.txt"
+        },
+        {
+            "id": 43,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 20.155,
+            "filename": "acc_43.txt"
+        },
+        {
+            "id": 44,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.86,
+            "filename": "acc_44.txt"
+        },
+        {
+            "id": 45,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.99,
+            "filename": "acc_45.txt"
+        },
+        {
+            "id": 46,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.83,
+            "filename": "acc_46.txt"
+        },
+        {
+            "id": 47,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.86,
+            "filename": "acc_47.txt"
+        },
+        {
+            "id": 48,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 29.375999999999998,
+            "filename": "acc_48.txt"
+        },
+        {
+            "id": 49,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 22.226399999999998,
+            "filename": "acc_49.txt"
+        },
+        {
+            "id": 50,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 15.206399999999999,
+            "filename": "acc_50.txt"
+        },
+        {
+            "id": 51,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 9.05,
+            "filename": "acc_51.txt"
+        },
+        {
+            "id": 52,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.985,
+            "filename": "acc_52.txt"
+        },
+        {
+            "id": 53,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 49.32,
+            "filename": "acc_53.txt"
+        },
+        {
+            "id": 54,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 28.595,
+            "filename": "acc_54.txt"
+        },
+        {
+            "id": 55,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 22.34,
+            "filename": "acc_55.txt"
+        },
+        {
+            "id": 56,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 19.990000000000002,
+            "filename": "acc_56.txt"
+        },
+        {
+            "id": 57,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 39.99,
+            "filename": "acc_57.txt"
+        },
+        {
+            "id": 58,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 59.99,
+            "filename": "acc_58.txt"
+        },
+        {
+            "id": 59,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 25.0,
+            "filename": "acc_59.txt"
+        },
+        {
+            "id": 60,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0078,
+            "duration": 43.952999999999996,
+            "filename": "acc_60.txt"
+        },
+        {
+            "id": 61,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 20.775000000000002,
+            "filename": "acc_61.txt"
+        },
+        {
+            "id": 62,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 29.98,
+            "filename": "acc_62.txt"
+        },
+        {
+            "id": 63,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 35.980000000000004,
+            "filename": "acc_63.txt"
+        },
+        {
+            "id": 64,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0039,
+            "duration": 27.998099999999997,
+            "filename": "acc_64.txt"
+        },
+        {
+            "id": 65,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 43.980000000000004,
+            "filename": "acc_65.txt"
+        },
+        {
+            "id": 66,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 43.980000000000004,
+            "filename": "acc_66.txt"
+        },
+        {
+            "id": 67,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 60.0,
+            "filename": "acc_67.txt"
+        },
+        {
+            "id": 68,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 59.980000000000004,
+            "filename": "acc_68.txt"
+        },
+        {
+            "id": 69,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 28.63,
+            "filename": "acc_69.txt"
+        },
+        {
+            "id": 70,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 19.900000000000002,
+            "filename": "acc_70.txt"
+        },
+        {
+            "id": 71,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 39.980000000000004,
+            "filename": "acc_71.txt"
+        },
+        {
+            "id": 72,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 39.980000000000004,
+            "filename": "acc_72.txt"
+        },
+        {
+            "id": 73,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 149.98,
+            "filename": "acc_73.txt"
+        },
+        {
+            "id": 74,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 40.95,
+            "filename": "acc_74.txt"
+        },
+        {
+            "id": 75,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 40.95,
+            "filename": "acc_75.txt"
+        },
+        {
+            "id": 76,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 23.09,
+            "filename": "acc_76.txt"
+        },
+        {
+            "id": 77,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 27.96,
+            "filename": "acc_77.txt"
+        },
+        {
+            "id": 78,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 27.18,
+            "filename": "acc_78.txt"
+        },
+        {
+            "id": 79,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 29.995,
+            "filename": "acc_79.txt"
+        },
+        {
+            "id": 80,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 34.995,
+            "filename": "acc_80.txt"
+        },
+        {
+            "id": 81,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 89.995,
+            "filename": "acc_81.txt"
+        },
+        {
+            "id": 82,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 89.995,
+            "filename": "acc_82.txt"
+        },
+        {
+            "id": 83,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 89.995,
+            "filename": "acc_83.txt"
+        },
+        {
+            "id": 84,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 55.89,
+            "filename": "acc_84.txt"
+        },
+        {
+            "id": 85,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 25.88,
+            "filename": "acc_85.txt"
+        },
+        {
+            "id": 86,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 55.035000000000004,
+            "filename": "acc_86.txt"
+        },
+        {
+            "id": 87,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 61.88,
+            "filename": "acc_87.txt"
+        },
+        {
+            "id": 88,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.02,
+            "duration": 45.980000000000004,
+            "filename": "acc_88.txt"
+        },
+        {
+            "id": 89,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 60.42,
+            "filename": "acc_89.txt"
+        },
+        {
+            "id": 90,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 132.135,
+            "filename": "acc_90.txt"
+        },
+        {
+            "id": 91,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 45.300000000000004,
+            "filename": "acc_91.txt"
+        },
+        {
+            "id": 92,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 71.995,
+            "filename": "acc_92.txt"
+        },
+        {
+            "id": 93,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 92.09,
+            "filename": "acc_93.txt"
+        },
+        {
+            "id": 94,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 37.495,
+            "filename": "acc_94.txt"
+        },
+        {
+            "id": 95,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 130.04,
+            "filename": "acc_95.txt"
+        },
+        {
+            "id": 96,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 84.99,
+            "filename": "acc_96.txt"
+        },
+        {
+            "id": 97,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 52.370000000000005,
+            "filename": "acc_97.txt"
+        },
+        {
+            "id": 98,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 27.63,
+            "filename": "acc_98.txt"
+        },
+        {
+            "id": 99,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 240.23000000000002,
+            "filename": "acc_99.txt"
+        },
+        {
+            "id": 100,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 66.545,
+            "filename": "acc_100.txt"
+        },
+        {
+            "id": 101,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 74.995,
+            "filename": "acc_101.txt"
+        },
+        {
+            "id": 102,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 21.185,
+            "filename": "acc_102.txt"
+        },
+        {
+            "id": 103,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 21.01,
+            "filename": "acc_103.txt"
+        },
+        {
+            "id": 104,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 299.79,
+            "filename": "acc_104.txt"
+        },
+        {
+            "id": 105,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 179.995,
+            "filename": "acc_105.txt"
+        },
+        {
+            "id": 106,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.0024,
+            "duration": 18.2808,
+            "filename": "acc_106.txt"
+        },
+        {
+            "id": 107,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.00244,
+            "duration": 26.0958,
+            "filename": "acc_107.txt"
+        },
+        {
+            "id": 108,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.00244,
+            "duration": 23.64116,
+            "filename": "acc_108.txt"
+        },
+        {
+            "id": 109,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.00244,
+            "duration": 45.99888,
+            "filename": "acc_109.txt"
+        },
+        {
+            "id": 110,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.00244,
+            "duration": 43.446639999999995,
+            "filename": "acc_110.txt"
+        },
+        {
+            "id": 111,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 14.995000000000001,
+            "filename": "acc_111.txt"
+        },
+        {
+            "id": 112,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 24.995,
+            "filename": "acc_112.txt"
+        },
+        {
+            "id": 113,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 24.995,
+            "filename": "acc_113.txt"
+        },
+        {
+            "id": 114,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 19.995,
+            "filename": "acc_114.txt"
+        },
+        {
+            "id": 115,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 19.995,
+            "filename": "acc_115.txt"
+        },
+        {
+            "id": 116,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 19.995,
+            "filename": "acc_116.txt"
+        },
+        {
+            "id": 117,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 112.995,
+            "filename": "acc_117.txt"
+        },
+        {
+            "id": 118,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 102.995,
+            "filename": "acc_118.txt"
+        },
+        {
+            "id": 119,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 47.83,
+            "filename": "acc_119.txt"
+        },
+        {
+            "id": 120,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 48.18,
+            "filename": "acc_120.txt"
+        },
+        {
+            "id": 121,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_121.txt"
+        },
+        {
+            "id": 122,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_122.txt"
+        },
+        {
+            "id": 123,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_123.txt"
+        },
+        {
+            "id": 124,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_124.txt"
+        },
+        {
+            "id": 125,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_125.txt"
+        },
+        {
+            "id": 126,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_126.txt"
+        },
+        {
+            "id": 127,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 50.0,
+            "filename": "acc_127.txt"
+        },
+        {
+            "id": 128,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_128.txt"
+        },
+        {
+            "id": 129,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_129.txt"
+        },
+        {
+            "id": 130,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 40.0,
+            "filename": "acc_130.txt"
+        },
+        {
+            "id": 131,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 59.99,
+            "filename": "acc_131.txt"
+        },
+        {
+            "id": 132,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 69.99,
+            "filename": "acc_132.txt"
+        },
+        {
+            "id": 133,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 299.99,
+            "filename": "acc_133.txt"
+        },
+        {
+            "id": 134,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.01,
+            "duration": 299.99,
+            "filename": "acc_134.txt"
+        },
+        {
+            "id": 135,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 269.995,
+            "filename": "acc_135.txt"
+        },
+        {
+            "id": 136,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 28.395,
+            "filename": "acc_136.txt"
+        },
+        {
+            "id": 137,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 106.735,
+            "filename": "acc_137.txt"
+        },
+        {
+            "id": 138,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 60.175000000000004,
+            "filename": "acc_138.txt"
+        },
+        {
+            "id": 139,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 22.0,
+            "filename": "acc_139.txt"
+        },
+        {
+            "id": 140,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 27.0,
+            "filename": "acc_140.txt"
+        },
+        {
+            "id": 141,
+            "time_step_ratio": 1,
+            "scale_factor": 1,
+            "time_step": 0.005,
+            "duration": 24.0,
+            "filename": "acc_141.txt"
+        }
+    ]
+}

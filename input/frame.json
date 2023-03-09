@@ -1,0 +1,76 @@
+{
+    "masses": [
+        772,
+        772,
+        536
+      ],
+      "storey_height": 3.6,
+      "span_length": 6.5,
+      "n_storeys": 3,
+      "n_spans": 6,
+      "n_frames": 4,
+      "sections": {
+        "internal_column": {
+            "n_tendons": 0,
+            "tendons_pt": 0,
+            "axial_load": 587,
+            "top_reinforcement_depth": -0.065,
+            "b": 0.6,
+            "h": 0.7,
+            "connection_stiffness_ratio": 0.55,
+            "reinforcement_diameter": 20,
+            "reinforcement_count": 2,
+            "lambda_bar": 60
+        },
+        "external_column": {
+            "n_tendons": 0,
+            "tendons_pt": 0,
+            "axial_load": 338,
+            "top_reinforcement_depth": -0.065,
+            "b": 0.6,
+            "h": 0.7,
+            "connection_stiffness_ratio": 0.55,
+            "reinforcement_diameter": 20,
+            "reinforcement_count": 2,
+            "lambda_bar": 60
+        },
+        "beams": [
+            {
+                "n_tendons": 6,
+                "tendons_pt": 900,
+                "axial_load": 0,
+                "top_reinforcement_depth": -0.065,
+                "b": 0.4,
+                "h": 0.7,
+                "connection_stiffness_ratio": 0.7,
+                "reinforcement_diameter": 16,
+                "reinforcement_count": 2,
+                "lambda_bar": 60
+            },
+            {
+                "n_tendons": 5,
+                "tendons_pt": 750,
+                "axial_load": 0,
+                "top_reinforcement_depth": -0.065,
+                "b": 0.4,
+                "h": 0.7,
+                "connection_stiffness_ratio": 0.7,
+                "reinforcement_diameter": 16,
+                "reinforcement_count": 2,
+                "lambda_bar": 60
+            },
+            {
+                "n_tendons": 4,
+                "tendons_pt": 450,
+                "axial_load": 0,
+                "top_reinforcement_depth": -0.065,
+                "b": 0.4,
+                "h": 0.7,
+                "connection_stiffness_ratio": 0.7,
+                "reinforcement_diameter": 16,
+                "reinforcement_count": 2,
+                "lambda_bar": 60
+            }
+        ]
+      }
+}
